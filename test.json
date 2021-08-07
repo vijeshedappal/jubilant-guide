@@ -1,0 +1,49 @@
+{
+    "promotions": [
+        {
+            "id": 1,
+            "title": "sample1",
+            "value": 10,
+            "startdate": "12-10-2021",
+            "expirationdate": "118-10-2021",
+            "description": "for all grocery items",
+            "image": "https://i.postimg.cc/HWQLR6DB/82-0001.jpg"
+        },
+        {
+            "id": 2,
+            "title": "sample2",
+            "value": 10,
+            "startdate": "12-10-2021",
+            "expirationdate": "118-10-2021",
+            "description": "for all grocery items",
+            "image": "https://i.postimg.cc/mkM1543w/233958-0001.jpg"
+        },
+        {
+            "id": 3,
+            "title": "sample3",
+            "value": 10,
+            "startdate": "12-10-2021",
+            "expirationdate": "118-10-2021",
+            "description": "for all grocery items",
+            "image": "https://i.postimg.cc/HWQLR6DB/82-0001.jpg"
+        },
+        {
+            "id": 4,
+            "title": "sample4",
+            "value": 10,
+            "startdate": "12-10-2021",
+            "expirationdate": "118-10-2021",
+            "description": "for all grocery items",
+            "image": "https://i.postimg.cc/HWQLR6DB/82-0001.jpg"
+        },
+        {
+            "id": 5,
+            "title": "sample5",
+            "value": 10,
+            "startdate": "12-10-2021",
+            "expirationdate": "118-10-2021",
+            "description": "for all grocery items",
+            "image": "https://i.postimg.cc/HWQLR6DB/82-0001.jpg"
+        }
+    ]
+}
